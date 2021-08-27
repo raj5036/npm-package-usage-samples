@@ -1,0 +1,13 @@
+{
+  "name": "my_tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "minimist": "^1.2.5"
+  }
+}
