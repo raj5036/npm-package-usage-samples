@@ -7,6 +7,7 @@
     "test": "node index.js"
   },
   "dependencies": {
+    "deepmerge": "^4.2.2",
     "fs-extra": "^10.0.0",
     "minimist": "^1.2.5"
   }
